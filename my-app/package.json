@@ -11,7 +11,7 @@
     "deployment": "^0.2.3",
     "gh-pages": "^2.0.1",
     "github-username": "^4.1.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.14.1",
     "particles.js": "^2.0.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",

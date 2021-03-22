@@ -28,38 +28,38 @@ export default class Education extends Component {
                         <div className="code-content">
                             <code>
                                 <EducationItem
-                                    duration="1995-1999"
-                                    school="Grundschule"
-                                    schoolName="Oberlübbe"
-                                    graduation=" - "
-                                    note=" - "
+                                    duration="2017-2021"
+                                    school="BTech"
+                                    schoolName="GHRCEM Pune, IN"
+                                    graduation="Computer Engineering"
+                                    note="8.04"
                                 />
 
                                 <EducationItem
-                                    duration="1999-2005"
-                                    school="Gesamtschule"
-                                    schoolName="Hille"
-                                    graduation="Fachoberschulreife"
-                                    note="2.5"
+                                    duration="2015-2017"
+                                    school="HSC"
+                                    schoolName="Nowrosjee Wadia College"
+                                    graduation="HSC 12th"
+                                    note="55.23"
                                 />
 
                                 {/*Freiherr-vom-Stein Berufskolleg*/}
                                 <EducationItem
-                                    duration="2005-2008"
-                                    school="Berufskolleg"
-                                    schoolName="Freiherr-vom-Stein"
-                                    graduation="Fachhochschulreife"
-                                    note="2.4"
+                                    duration="2015"
+                                    school="SSC"
+                                    schoolName="RCPIT Instituate"
+                                    graduation="SSC 10th"
+                                    note="86.20"
                                 />
 
-                                {/*Berufskolleg Senne*/}
+                                {/* Berufskolleg Senne
                                 <EducationItem
                                     duration="2011-2013"
                                     school="Berufskolleg"
                                     schoolName="Senne"
                                     graduation="Mediengestalterin für Digital- und Printmedien"
                                     note="2.1"
-                                />
+                                /> */}
                             </code>
                         </div>
                     </div>
@@ -78,9 +78,13 @@ export default class Education extends Component {
                     <div className="code code-js dp-technical-skills-list">
                         <div className="code-content">
                             <code>
-                                <span className="c-y">const </span><span className="c-b">css3</span> = [<span className="c-g">“css”</span>, <span className="c-g">“sass/scss”</span>, <span className="c-g">“less”</span>];<br/>
-                                <span className="c-y">const </span><span className="c-b">frameworks</span> = [<span className="c-g">“bootstrap”</span>, <span className="c-g">“react”</span>, <span className="c-g">“jquery”</span>];<br/>
-                                <span className="c-y">const </span><span className="c-b">adobe</span> = [<span className="c-g">“photoshop”</span>, <span className="c-g">“indesign”</span>, <span className="c-g">“illustrator”</span>];<br/><br/>
+                                <span className="c-y">const </span><span className="c-b">Frontend</span> = [<span className="c-g">“HTML”</span>, <span className="c-g">“CSS”</span>, <span className="c-g">“sass/scss”</span>, <span className="c-g">“JavaScript/es6+”</span>, <span className="c-g">“Bootstrap”</span>, <span className="c-g">“UI-kit”</span>, <span className="c-g">“ReactJS / Redux”</span>];<br/>
+                                <span className="c-y">const </span><span className="c-b">Backend </span> = [<span className="c-g">“php”</span>, <span className="c-g">“nodeJS”</span>];<br/>
+                                <span className="c-y">const </span><span className="c-b">Database</span> = [<span className="c-g">“MySQL”</span>, <span className="c-g">“MongoDB”</span>];<br/>
+                                <span className="c-y">const </span><span className="c-b">Cloud</span> = [<span className="c-g">“Netlify”</span>, <span className="c-g">“Firebase”</span>];<br/>
+                                <span className="c-y">const </span><span className="c-b">Version Control</span> = [<span className="c-g">“Git”</span>, <span className="c-g">“Github”</span>];<br/>
+                                
+                                <br/>
                             </code>
                         </div>
                     </div>

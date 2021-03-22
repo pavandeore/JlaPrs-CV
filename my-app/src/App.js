@@ -18,7 +18,7 @@ library.add(fab);
 
 class App extends Component {
     componentDidMount(){
-        document.title = "CV - Julia Primus"
+        document.title = "CV - Pawan Deore"
     }
 
   render() {
@@ -117,9 +117,9 @@ class App extends Component {
                     <Projects title="Projekte" />
                 </TabPanel>
 
-                <TabPanel>
+                {/* <TabPanel>
                   <BucketList title="Bucketlist" />
-                </TabPanel>
+                </TabPanel> */}
             </div>
 
           </Tabs>
